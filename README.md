@@ -22,3 +22,5 @@ Una licencia de software es un contrato entre el licenciante y el licenciatario 
 ### 2 de la Open Source Iniciative.
 #### Linux (un sistema operativo de código abierto)
 #### Mozilla Firefox (un navegador de Internet de código abierto).
+## ventajas de utilizar el software
+Libertad de usar el programa, con cualquier propósito. Libertad de acceso al código fuente del programa. Libertad de copiado y distribución. Libertad de modificar y mejorar el programa.
